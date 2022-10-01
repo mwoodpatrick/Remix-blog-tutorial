@@ -182,3 +182,11 @@ We use [Prettier](https://prettier.io/) for auto-formatting in this project. It'
 # Mark's Notes
 
 Testing with fly.io
+
+## TODO
+
+1. Enhance text area with [EasyMDE - Markdown Editor](https://github.com/Ionaru/easy-markdown-editor)
+
+2. Add changes to git
+
+3. Support MDX
